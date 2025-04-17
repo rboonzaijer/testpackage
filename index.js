@@ -1,3 +1,3 @@
 exports.printMsg = function() {
-    console.log("testpackage main 1.0.1");
+    console.log("testpackage main 1.0.1 - devbranch");
 }
