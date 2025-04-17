@@ -1,0 +1,16 @@
+{
+  "name": "rboonzaijer/testpackage",
+  "version": "1.0.0",
+  "description": "Just a test package",
+  "private": true,
+  "license": "UNLICENSED",
+  "author": "Example Author <mail@example.com> (www.example.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rboonzaijer/testpackage.git"
+  }
+}
